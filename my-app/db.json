@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "Rahul",
+      "name": "Rahul Ram",
+      "password": "1234",
+      "email": "Rahulram2@gmail.com",
+      "phone": "219273",
+      "country": "india",
+      "address": "op house Delhi",
+      "gender": "male"
+    },
+    {
+      "id": "mohan",
+      "name": "mohan thomas",
+      "password": "678954",
+      "email": "mohan@gmail.com",
+      "phone": "278965",
+      "country": "india",
+      "address": "hj house mumbai",
+      "gender": "male"
+    },
+    {
+      "id": "Harry",
+      "name": "Harrypotter",
+      "password": "987789",
+      "email": "harry@gmail.com",
+      "phone": "2255",
+      "country": "india",
+      "address": "hogwarts",
+      "gender": "male"
+    }
+  ]
+}
